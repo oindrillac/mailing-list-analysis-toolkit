@@ -1,0 +1,7 @@
+boto3
+jupyter
+nbconvert
+pandas
+python-dotenv
+sklearn
+wget
